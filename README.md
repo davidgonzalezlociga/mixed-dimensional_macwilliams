@@ -33,6 +33,3 @@ The code constructs the full Hilbert space and iterates over the complete error 
 ## Citation
 If you use this code or framework in your research, please consider citing our paper:
 > *https://arxiv.org/abs/2604.25790*
-
-## Acknowledgements
-AI tools were used for optimize tools (`scipy`,`cvxpy`.`z3-solver`) and display printing.
